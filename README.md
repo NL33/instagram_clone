@@ -1,6 +1,6 @@
 iOS (Swift) app: reproducing instagram mobile app functionality. Users:
 
---users set up accounts, 
+--set up accounts, 
 
 --post photos, 
 
